@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[brianculwell]]></title>
         <description><![CDATA[brianculwell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brianculwell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 17:38:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Dec 2015 17:40:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brianculwell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://onemansblog.com/wp-content/uploads/2009/01/gold-bars.jpg">]]></description>
+            <link>https://www.google.com/search?q=vault+of+gold&amp;safe=off&amp;espv=2&amp;biw=2538&amp;bih=1242&amp;tbm=isch&amp;imgil=k3n3H2DXtO2xXM%253A%253BwyrClM-39IU7jM%253Bhttp%25253A%25252F%25252Fwww.123rf.com%25252Fphoto_13615212_vault-of-gold-bars.html&amp;source=iu&amp;pf=m&amp;fir=k3n3H2DXtO2xXM%253A%252CwyrClM-39IU7jM%252C_&amp;usg=__UHC7HOqUt5i2MNvddoCfSKiw5co%3D&amp;ved=0ahUKEwiWltamsNnJAhXFJiYKHdMQAaIQyjcIJw&amp;ei=_KxtVpaoNcXNmAHToYSQCg#imgrc=hWkInkQWgIBIYM%3A&amp;usg=__UHC7HOqUt5i2MNvddoCfSKiw5co%3D</link>
+            <guid isPermaLink="false">1d2021ae-21e5-4dc9-8a48-05371ec41174</guid>
+            <pubDate>Sun, 13 Dec 2015 17:40:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The silver is mine, and the gold is mine, saith the LORD of hosts.</p>]]></description>
