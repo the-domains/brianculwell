@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[brianculwell]]></title>
+        <description><![CDATA[brianculwell]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Dec 2015 17:38:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The silver is mine, and the gold is mine, saith the LORD of hosts.</p>]]></description>
+            <link>http://www.sacred-texts.com/bib/kjv/hag002.htm</link>
+            <guid isPermaLink="false">6ee1102f-50b5-4be7-bfaa-a020a56b423e</guid>
+            <pubDate>Sun, 13 Dec 2015 17:38:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
